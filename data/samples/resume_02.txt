@@ -1,0 +1,15 @@
+Arjun Mehta
+Email: arjun.mehta@example.org  Mobile: 09123456780
+GitHub: https://github.com/arjunmehta
+
+Academic Background
+M.Sc. in Statistics, University of Rajputana (2021 - 2023), CGPA 8.2
+B.Sc. Mathematics - Maharani College - 2021
+
+Technical Proficiency
+Python | R | SQL | Tableau | Excel | TensorFlow | Docker
+
+Work Experience
+Junior Data Analyst at Finlytics Pvt Ltd (Aug 2023 - Dec 2024)
+- Built dashboards in Tableau and automated ETL pipelines using Python and Airflow.
+- Presented weekly insights to the product team.

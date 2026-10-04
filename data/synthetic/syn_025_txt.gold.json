@@ -1,0 +1,39 @@
+{
+  "name": "Anjali Rathore",
+  "email": "anjali.rathore77@example.com",
+  "phone": "9609587361",
+  "skills": [
+    "Elasticsearch",
+    "SQL",
+    "Hadoop",
+    "scikit-learn",
+    "MongoDB",
+    "PostgreSQL",
+    "Flask",
+    "Linux",
+    "Kubernetes",
+    "spaCy",
+    "Docker",
+    "React"
+  ],
+  "education": [
+    {
+      "degree": "MCA",
+      "institute": "Himalaya School of Computing",
+      "year": "2024"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Kiran Labs",
+      "role": "Data Analyst Intern"
+    },
+    {
+      "company": "Finlytics",
+      "role": "Research Intern"
+    }
+  ],
+  "total_experience_months": 10,
+  "layout": "txt",
+  "source": "synthetic"
+}

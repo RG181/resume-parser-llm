@@ -1,0 +1,32 @@
+ANJALI SHEKHAWAT
+Bengaluru, Karnataka
+anjali.shekhawat82@example.com
++91-9425164079
+linkedin.com/in/anjali-shekhawat
+github.com/anjalishekhawat
+
+Objective
+Motivated student looking for roles in software and data.
+
+Key Skills
+Languages: JS, TensorFlow, scikit-learn
+Frameworks: Excel, GraphQL, AWS
+Tools: Power BI, Prometheus, Java
+Other: PyTorch, Snowflake
+
+Work Experience
+BlueLeaf Systems, Indore
+QA Engineer Intern  May 2022 – Jun 2022
+- Cleaned and analysed datasets with AWS.
+Orbit Labs, Lucknow
+Junior Analyst  Aug 2022 – Nov 2022
+- Automated reporting pipelines with TensorFlow.
+
+Personal Projects
+Attendance Portal | Snowflake, scikit-learn
+- Marks and reports class attendance.
+Library Management App | Excel, Java
+- Manages book issue and return records.
+
+Educational Qualifications
+M.Tech in Software Engineering, Vindhya Institute of Technology (2023 - 2025), CGPA 8.9

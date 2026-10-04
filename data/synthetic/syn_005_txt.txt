@@ -1,0 +1,23 @@
+Meera Iyer
+Bengaluru, Karnataka | meera.iyer35@example.com | +91-9402533494
+linkedin.com/in/meera-iyer
+github.com/meeraiyer
+
+Educational Qualifications
+BCA - Deccan University - 2025
+
+Professional Experience
+Data Analyst Intern at Nimbus Analytics (July 2022 - February 2023)
+- Worked with a team of 5 engineers.
+Data Analyst Intern at Zenith Soft (February 2023 - September 2023)
+- Improved query speed in Excel by 30%.
+QA Engineer Intern at Quanta Works (November 2023 - December 2023)
+- Worked with a team of 5 engineers.
+- Wrote unit tests and documentation.
+
+Technical Proficiency
+Django, Tableau, Node.js, TensorFlow, GraphQL, Excel, Pandas, Figma, spaCy, Power BI, SQL, Java, Docker
+
+Academic Projects
+Library Management App | GraphQL, Node.js
+- Manages book issue and return records.

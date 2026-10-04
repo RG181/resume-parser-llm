@@ -1,0 +1,28 @@
+Anjali Rathore
+Jaipur, Rajasthan | anjali.rathore77@example.com | 09609587361
+linkedin.com/in/anjali-rathore
+github.com/anjalirathore
+
+Academic Background
+MCA - Himalaya School of Computing - 2024
+
+Professional Experience
+Kiran Labs, Indore
+Data Analyst Intern  04/2023 to 09/2023
+- Cleaned and analysed datasets with MongoDB.
+- Developed internal services in MongoDB.
+- Improved query speed in MongoDB by 30%.
+Finlytics, Pune
+Research Intern  12/2023 to 03/2024
+- Worked with a team of 5 engineers.
+- Improved query speed in spaCy by 30%.
+- Developed internal services in spaCy.
+
+Technical Skills
+Elasticsearch | SQL | Hadoop | sklearn | MongoDB | PostgreSQL | Flask | Linux | Kubernetes | spaCy | Docker | React
+
+PROJECTS
+Library Management App | React, SQL
+- Manages book issue and return records.
+Expense Tracker | PostgreSQL, Linux
+- Tracks daily spending with monthly charts.

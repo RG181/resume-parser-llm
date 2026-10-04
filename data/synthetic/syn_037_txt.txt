@@ -1,0 +1,20 @@
+RAHUL BHATT
+Bengaluru, Karnataka | rahul.bhatt9@example.com | +91 96696 28927
+
+Educational Qualifications
+MCA - Kaveri University - 2026
+
+Internships
+Mosaic Data - QA Engineer Intern - Aug '22 - Jan '23
+- Worked with a team of 5 engineers.
+- Developed internal services in TensorFlow.
+- Deployed prototypes using TensorFlow and JS.
+Orbit Labs - Software Engineer Intern - Feb '23 - Aug '23
+- Deployed prototypes using React and PostgreSQL.
+
+SKILLS
+Excel | PostgreSQL | TensorFlow | PyTorch | Tableau | Hadoop | JS | Node.js | NumPy | React
+
+Personal Projects
+Library Management App | JS, NumPy
+- Manages book issue and return records.

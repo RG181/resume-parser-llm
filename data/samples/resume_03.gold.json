@@ -1,0 +1,12 @@
+{
+  "name": "Neha Verma",
+  "email": "neha.verma@example.com",
+  "phone": "9811122334",
+  "skills": ["Python", "SQL", "Docker", "Git", "TensorFlow", "Pandas", "Tableau", "REST APIs", "Flask"],
+  "education": [{"degree": "B.Tech in Information Technology", "institute": "Pink City Institute of Technology", "year": "2024"}],
+  "experience": [
+    {"company": "Zenith Soft", "role": "Software Engineer Intern"},
+    {"company": "Kiran Labs", "role": "Data Analyst Intern"}
+  ],
+  "total_experience_months": 9
+}

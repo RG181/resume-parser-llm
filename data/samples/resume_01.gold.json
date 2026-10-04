@@ -1,0 +1,16 @@
+{
+  "name": "Riya Sharma",
+  "email": "riya.sharma@example.com",
+  "phone": "9876543210",
+  "skills": ["Python", "SQL", "Java", "C++", "scikit-learn", "spaCy", "Hugging Face", "Pandas", "NumPy",
+             "Git", "Docker", "Streamlit", "Power BI", "NLP", "Machine Learning"],
+  "education": [
+    {"degree": "B.Tech in Computer Science and Engineering", "institute": "Jaipur Institute of Engineering and Technology", "year": "2026"},
+    {"degree": "Senior Secondary (Class XII)", "institute": "Delhi Public School", "year": "2021"}
+  ],
+  "experience": [
+    {"company": "Nimbus Analytics", "role": "Data Science Intern"},
+    {"company": "Orbit Labs", "role": "Machine Learning Intern"}
+  ],
+  "total_experience_months": 6
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Simran Khanna",
+  "email": "simran.khanna21@example.com",
+  "phone": "9973465185",
+  "skills": [
+    "Node.js",
+    "Pandas",
+    "PyTorch",
+    "React",
+    "Docker",
+    "MongoDB",
+    "FastAPI",
+    "spaCy",
+    "Excel",
+    "AWS"
+  ],
+  "education": [
+    {
+      "degree": "M.Tech in Software Engineering",
+      "institute": "Vindhya Institute of Technology",
+      "year": "2025"
+    },
+    {
+      "degree": "Senior Secondary (Class XII)",
+      "institute": "Greenfield Senior School",
+      "year": "2022"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Finlytics",
+      "role": "Web Developer"
+    },
+    {
+      "company": "Orbit Labs",
+      "role": "Data Science Intern"
+    }
+  ],
+  "total_experience_months": 9,
+  "layout": "pdf_two_col",
+  "source": "synthetic"
+}

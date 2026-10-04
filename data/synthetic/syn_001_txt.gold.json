@@ -1,0 +1,39 @@
+{
+  "name": "Meera Kapoor",
+  "email": "meera.kapoor32@example.com",
+  "phone": "9339670711",
+  "skills": [
+    "Excel",
+    "SQL",
+    "TensorFlow",
+    "Java",
+    "Prometheus",
+    "C++",
+    "Node.js",
+    "Python",
+    "Power BI",
+    "Linux",
+    "Git",
+    "MongoDB"
+  ],
+  "education": [
+    {
+      "degree": "M.Sc. in Mathematics",
+      "institute": "Deccan University",
+      "year": "2025"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Finlytics",
+      "role": "Software Engineer Intern"
+    },
+    {
+      "company": "Orbit Labs",
+      "role": "Software Engineer Intern"
+    }
+  ],
+  "total_experience_months": 12,
+  "layout": "txt",
+  "source": "synthetic"
+}

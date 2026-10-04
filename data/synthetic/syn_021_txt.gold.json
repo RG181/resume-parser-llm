@@ -1,0 +1,39 @@
+{
+  "name": "Diya Rathore",
+  "email": "diya.rathore6@example.com",
+  "phone": "9949447049",
+  "skills": [
+    "Docker",
+    "Pandas",
+    "FastAPI",
+    "Git",
+    "Elasticsearch",
+    "Figma",
+    "scikit-learn",
+    "spaCy"
+  ],
+  "education": [
+    {
+      "degree": "M.Sc. in Mathematics",
+      "institute": "Himalaya School of Computing",
+      "year": "2026"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Finlytics",
+      "role": "Research Intern"
+    },
+    {
+      "company": "Quanta Works",
+      "role": "QA Engineer Intern"
+    },
+    {
+      "company": "Orbit Labs",
+      "role": "Project Trainee"
+    }
+  ],
+  "total_experience_months": 14,
+  "layout": "txt",
+  "source": "synthetic"
+}

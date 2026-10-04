@@ -1,0 +1,43 @@
+{
+  "name": "Karan Saxena",
+  "email": "karan.saxena39@example.com",
+  "phone": "9834484102",
+  "skills": [
+    "Java",
+    "Selenium",
+    "Excel",
+    "PostgreSQL",
+    "Kubernetes",
+    "Git",
+    "Power BI",
+    "SQL",
+    "Tableau",
+    "spaCy",
+    "scikit-learn",
+    "Python"
+  ],
+  "education": [
+    {
+      "degree": "MCA",
+      "institute": "Deccan University",
+      "year": "2025"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Orbit Labs",
+      "role": "Web Developer"
+    },
+    {
+      "company": "Pragati Tech",
+      "role": "Junior Analyst"
+    },
+    {
+      "company": "Quanta Works",
+      "role": "Software Engineer Intern"
+    }
+  ],
+  "total_experience_months": 11,
+  "layout": "pdf_single",
+  "source": "synthetic"
+}

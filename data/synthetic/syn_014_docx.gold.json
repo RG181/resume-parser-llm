@@ -1,0 +1,47 @@
+{
+  "name": "Anjali Joshi",
+  "email": "anjali.joshi17@example.com",
+  "phone": "9944511703",
+  "skills": [
+    "spaCy",
+    "Elasticsearch",
+    "React",
+    "Docker",
+    "Kubernetes",
+    "C++",
+    "PyTorch",
+    "Django",
+    "FastAPI",
+    "Pandas",
+    "Java"
+  ],
+  "education": [
+    {
+      "degree": "BCA",
+      "institute": "Deccan University",
+      "year": "2026"
+    },
+    {
+      "degree": "Senior Secondary (Class XII)",
+      "institute": "Lotus Valley School",
+      "year": "2022"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Helix Digital",
+      "role": "Web Developer"
+    },
+    {
+      "company": "Orbit Labs",
+      "role": "Research Intern"
+    },
+    {
+      "company": "Pragati Tech",
+      "role": "Project Trainee"
+    }
+  ],
+  "total_experience_months": 15,
+  "layout": "docx",
+  "source": "synthetic"
+}

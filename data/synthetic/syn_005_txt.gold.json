@@ -1,0 +1,44 @@
+{
+  "name": "Meera Iyer",
+  "email": "meera.iyer35@example.com",
+  "phone": "9402533494",
+  "skills": [
+    "Django",
+    "Tableau",
+    "Node.js",
+    "TensorFlow",
+    "GraphQL",
+    "Excel",
+    "Pandas",
+    "Figma",
+    "spaCy",
+    "Power BI",
+    "SQL",
+    "Java",
+    "Docker"
+  ],
+  "education": [
+    {
+      "degree": "BCA",
+      "institute": "Deccan University",
+      "year": "2025"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Nimbus Analytics",
+      "role": "Data Analyst Intern"
+    },
+    {
+      "company": "Zenith Soft",
+      "role": "Data Analyst Intern"
+    },
+    {
+      "company": "Quanta Works",
+      "role": "QA Engineer Intern"
+    }
+  ],
+  "total_experience_months": 17,
+  "layout": "txt",
+  "source": "synthetic"
+}

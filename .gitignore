@@ -1,0 +1,12 @@
+.env
+.cache/
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+results/*.json
+.DS_Store
+
+data/raw/
+data/public_ats/

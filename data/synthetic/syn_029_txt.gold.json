@@ -1,0 +1,44 @@
+{
+  "name": "Diya Bhatt",
+  "email": "diya.bhatt30@example.com",
+  "phone": "9975943821",
+  "skills": [
+    "Figma",
+    "AWS",
+    "Pandas",
+    "FastAPI",
+    "TensorFlow",
+    "Power Apps",
+    "PostgreSQL",
+    "Docker",
+    "Excel",
+    "Power BI",
+    "JavaScript",
+    "Flask"
+  ],
+  "education": [
+    {
+      "degree": "MCA",
+      "institute": "Vindhya Institute of Technology",
+      "year": "2026"
+    },
+    {
+      "degree": "Senior Secondary (Class XII)",
+      "institute": "Greenfield Senior School",
+      "year": "2023"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Pragati Tech",
+      "role": "Web Developer"
+    },
+    {
+      "company": "Kiran Labs",
+      "role": "Data Science Intern"
+    }
+  ],
+  "total_experience_months": 10,
+  "layout": "txt",
+  "source": "synthetic"
+}

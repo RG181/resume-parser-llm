@@ -1,0 +1,42 @@
+{
+  "name": "Yash Shekhawat",
+  "email": "yash.shekhawat75@example.com",
+  "phone": "9102655449",
+  "skills": [
+    "TensorFlow",
+    "Looker",
+    "Linux",
+    "Java",
+    "Power Apps",
+    "Node.js",
+    "Tableau",
+    "NumPy",
+    "Power BI",
+    "Excel",
+    "Git",
+    "PyTorch",
+    "GraphQL",
+    "scikit-learn"
+  ],
+  "education": [
+    {
+      "degree": "B.E. in Electronics",
+      "institute": "Aravali Institute of Technology",
+      "year": "2025"
+    },
+    {
+      "degree": "Senior Secondary (Class XII)",
+      "institute": "Greenfield Senior School",
+      "year": "2020"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Zenith Soft",
+      "role": "Project Trainee"
+    }
+  ],
+  "total_experience_months": 6,
+  "layout": "pdf_two_col",
+  "source": "synthetic"
+}

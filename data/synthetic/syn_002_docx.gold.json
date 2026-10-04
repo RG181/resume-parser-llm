@@ -1,0 +1,43 @@
+{
+  "name": "Vihaan Shekhawat",
+  "email": "vihaan.shekhawat83@example.com",
+  "phone": "9592688426",
+  "skills": [
+    "Elasticsearch",
+    "Flask",
+    "Git",
+    "MongoDB",
+    "Django",
+    "JavaScript",
+    "Looker",
+    "PostgreSQL",
+    "TensorFlow",
+    "Terraform",
+    "Linux"
+  ],
+  "education": [
+    {
+      "degree": "B.Sc. in Data Science",
+      "institute": "Vindhya Institute of Technology",
+      "year": "2024"
+    },
+    {
+      "degree": "Senior Secondary (Class XII)",
+      "institute": "Lotus Valley School",
+      "year": "2020"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Kiran Labs",
+      "role": "Project Trainee"
+    },
+    {
+      "company": "Zenith Soft",
+      "role": "Data Analyst Intern"
+    }
+  ],
+  "total_experience_months": 8,
+  "layout": "docx",
+  "source": "synthetic"
+}

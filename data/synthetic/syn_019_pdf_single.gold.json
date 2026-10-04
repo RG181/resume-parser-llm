@@ -1,0 +1,39 @@
+{
+  "name": "Sana Reddy",
+  "email": "sana.reddy99@example.com",
+  "phone": "9622129427",
+  "skills": [
+    "Java",
+    "C++",
+    "Hadoop",
+    "Git",
+    "JavaScript",
+    "FastAPI",
+    "Docker"
+  ],
+  "education": [
+    {
+      "degree": "B.Sc. in Data Science",
+      "institute": "Konkan University",
+      "year": "2024"
+    },
+    {
+      "degree": "Senior Secondary (Class XII)",
+      "institute": "Orchid International School",
+      "year": "2020"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Pragati Tech",
+      "role": "Data Analyst Intern"
+    },
+    {
+      "company": "Mosaic Data",
+      "role": "Project Trainee"
+    }
+  ],
+  "total_experience_months": 13,
+  "layout": "pdf_single",
+  "source": "synthetic"
+}

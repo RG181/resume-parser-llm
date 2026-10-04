@@ -1,0 +1,41 @@
+{
+  "name": "Kabir Gill",
+  "email": "kabir.gill2@example.com",
+  "phone": "9551034639",
+  "skills": [
+    "Tableau",
+    "TensorFlow",
+    "JavaScript",
+    "Prometheus",
+    "Terraform",
+    "Power Apps",
+    "PyTorch",
+    "Excel",
+    "NumPy"
+  ],
+  "education": [
+    {
+      "degree": "M.Tech in Software Engineering",
+      "institute": "Narmada College of Engineering",
+      "year": "2025"
+    },
+    {
+      "degree": "Senior Secondary (Class XII)",
+      "institute": "Lotus Valley School",
+      "year": "2022"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Kiran Labs",
+      "role": "Junior Analyst"
+    },
+    {
+      "company": "BlueLeaf Systems",
+      "role": "Research Intern"
+    }
+  ],
+  "total_experience_months": 8,
+  "layout": "txt",
+  "source": "synthetic"
+}

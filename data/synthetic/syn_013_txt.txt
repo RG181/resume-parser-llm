@@ -1,0 +1,35 @@
+Nikhil Shekhawat
+Jaipur, Rajasthan | nikhil.shekhawat80@example.com | +91-9173466219
+linkedin.com/in/nikhil-shekhawat
+github.com/nikhilshekhawat
+
+Profile
+Motivated student looking for roles in software and data.
+
+Technical Proficiency
+Tableau | Power BI | React | MongoDB | PyTorch | TensorFlow | Java | C++ | FastAPI | Kubernetes | Flask
+
+EXPERIENCE
+Mosaic Data, Indore
+Junior Analyst  June 2023 - December 2023
+- Automated reporting pipelines with MongoDB.
+- Cleaned and analysed datasets with MongoDB.
+Finlytics, Jaipur
+Research Intern  March 2024 - July 2024
+- Built dashboards using Flask and Java.
+- Deployed prototypes using Flask and Java.
+BlueLeaf Systems, Indore
+Junior Analyst  October 2024 - May 2025
+- Improved query speed in MongoDB by 30%.
+- Wrote unit tests and documentation.
+
+Personal Projects
+Attendance Portal | Flask, React
+- Marks and reports class attendance.
+Price Predictor | Flask, Power BI
+- Estimates used-car prices from listings.
+
+Educational Qualifications
+M.Sc. in Mathematics
+Kaveri University | 2023 - 2025
+CGPA: 7.3/10

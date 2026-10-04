@@ -1,0 +1,42 @@
+{
+  "name": "Rahul Kapoor",
+  "email": "rahul.kapoor58@example.com",
+  "phone": "9735873300",
+  "skills": [
+    "Python",
+    "C++",
+    "Linux",
+    "Git",
+    "Django",
+    "PostgreSQL",
+    "Node.js",
+    "Java",
+    "Excel",
+    "Looker"
+  ],
+  "education": [
+    {
+      "degree": "B.Tech in Information Technology",
+      "institute": "Narmada College of Engineering",
+      "year": "2025"
+    },
+    {
+      "degree": "Senior Secondary (Class XII)",
+      "institute": "Sunrise Public School",
+      "year": "2020"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Mosaic Data",
+      "role": "Junior Analyst"
+    },
+    {
+      "company": "BlueLeaf Systems",
+      "role": "Data Science Intern"
+    }
+  ],
+  "total_experience_months": 8,
+  "layout": "docx",
+  "source": "synthetic"
+}

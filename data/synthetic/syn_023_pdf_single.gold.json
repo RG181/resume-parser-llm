@@ -1,0 +1,35 @@
+{
+  "name": "Rohan Khanna",
+  "email": "rohan.khanna16@example.com",
+  "phone": "9656307931",
+  "skills": [
+    "Hadoop",
+    "React",
+    "Excel",
+    "FastAPI",
+    "Docker",
+    "Flask",
+    "NumPy",
+    "Pandas"
+  ],
+  "education": [
+    {
+      "degree": "B.Tech in Information Technology",
+      "institute": "Aravali Institute of Technology",
+      "year": "2026"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Finlytics",
+      "role": "Web Developer"
+    },
+    {
+      "company": "Mosaic Data",
+      "role": "QA Engineer Intern"
+    }
+  ],
+  "total_experience_months": 10,
+  "layout": "pdf_single",
+  "source": "synthetic"
+}

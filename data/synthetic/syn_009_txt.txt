@@ -1,0 +1,36 @@
+KABIR GILL
+Lucknow, Uttar Pradesh | kabir.gill2@example.com | 9551034639
+
+Objective
+Motivated student looking for roles in software and data.
+
+Technical Skills
+- Tableau
+- TensorFlow
+- JavaScript
+- Prometheus
+- Terraform
+- Power Apps
+- PyTorch
+- Excel
+- NumPy
+
+Work Experience
+Kiran Labs, Kochi
+Junior Analyst  Feb 2022 to Jun 2022
+- Deployed prototypes using Excel and Tableau.
+BlueLeaf Systems, Lucknow
+Research Intern  Aug 2022 to Oct 2022
+- Wrote unit tests and documentation.
+- Developed internal services in Excel.
+
+Personal Projects
+Expense Tracker | Prometheus, TensorFlow
+- Tracks daily spending with monthly charts.
+Price Predictor | Prometheus, Power Apps
+- Estimates used-car prices from listings.
+
+Education
+M.Tech in Software Engineering, Narmada College of Engineering (2023 - 2025), CGPA 7.1
+Senior Secondary (Class XII), Lotus Valley School, Lucknow | 2022
+Percentage: 80%

@@ -1,0 +1,40 @@
+{
+  "name": "Rahul Reddy",
+  "email": "rahul.reddy6@example.com",
+  "phone": "9861052404",
+  "skills": [
+    "MongoDB",
+    "Snowflake",
+    "Docker",
+    "Kubernetes",
+    "Git",
+    "Selenium",
+    "Power BI",
+    "Node.js"
+  ],
+  "education": [
+    {
+      "degree": "MCA",
+      "institute": "Narmada College of Engineering",
+      "year": "2026"
+    },
+    {
+      "degree": "Senior Secondary (Class XII)",
+      "institute": "Sunrise Public School",
+      "year": "2023"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Quanta Works",
+      "role": "Data Analyst Intern"
+    },
+    {
+      "company": "Helix Digital",
+      "role": "Software Engineer Intern"
+    }
+  ],
+  "total_experience_months": 11,
+  "layout": "docx",
+  "source": "synthetic"
+}

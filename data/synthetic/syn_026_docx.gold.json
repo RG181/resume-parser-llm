@@ -1,0 +1,30 @@
+{
+  "name": "Ishita Nair",
+  "email": "ishita.nair82@example.com",
+  "phone": "9350006353",
+  "skills": [
+    "Pandas",
+    "spaCy",
+    "Power BI",
+    "C++",
+    "TensorFlow",
+    "Figma",
+    "Excel"
+  ],
+  "education": [
+    {
+      "degree": "B.Tech in Computer Science",
+      "institute": "Narmada College of Engineering",
+      "year": "2025"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Nimbus Analytics",
+      "role": "Software Engineer Intern"
+    }
+  ],
+  "total_experience_months": 2,
+  "layout": "docx",
+  "source": "synthetic"
+}

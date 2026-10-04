@@ -1,0 +1,35 @@
+Diya Bhatt
+Indore, Madhya Pradesh
+diya.bhatt30@example.com
+09975943821
+linkedin.com/in/diya-bhatt
+github.com/diyabhatt
+
+Profile
+Motivated student looking for roles in software and data.
+
+Educational Qualifications
+MCA - Vindhya Institute of Technology - 2026
+Senior Secondary (Class XII), Greenfield Senior School, Indore | 2023
+Percentage: 78%
+
+Internships
+Pragati Tech, Jaipur
+Web Developer  Feb 2023 – Mar 2023
+- Improved query speed in AWS by 30%.
+- Cleaned and analysed datasets with AWS.
+- Automated reporting pipelines with AWS.
+Kiran Labs, Hyderabad
+Data Science Intern  Jun 2023 – Jan 2024
+- Cleaned and analysed datasets with FastAPI.
+- Automated reporting pipelines with FastAPI.
+- Wrote unit tests and documentation.
+
+SKILLS
+Figma | AWS | Pandas | FastAPI | TensorFlow | Power Apps | Postgres | Docker | Excel | Power BI | JS | Flask
+
+Personal Projects
+Sentiment Analyzer | Power Apps, TensorFlow
+- Classifies product reviews as positive or negative.
+Weather Dashboard | Postgres, Docker
+- Shows live forecasts for selected cities.

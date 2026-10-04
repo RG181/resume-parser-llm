@@ -1,0 +1,10 @@
+Data Scientist (NLP) - Entry Level
+
+We are looking for a Data Scientist with 1+ years of experience to build NLP solutions.
+Requirements:
+- Bachelor's degree in Computer Science or a related field
+- Strong Python and SQL skills
+- Experience with scikit-learn, spaCy or Hugging Face Transformers
+- Familiarity with Docker, Git and AWS
+- Good communication and problem solving skills
+Nice to have: Streamlit, FastAPI, Airflow

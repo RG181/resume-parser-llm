@@ -1,0 +1,25 @@
+Kabir Desai
+Jaipur, Rajasthan | kabir.desai56@example.com | 9120123575
+linkedin.com/in/kabir-desai
+github.com/kabirdesai
+
+Profile
+Motivated student looking for roles in software and data.
+
+Technical Skills
+Languages: Snowflake, Pandas, TensorFlow
+Frameworks: Tableau, sklearn, k8s
+Tools: Selenium, Linux, Power Apps
+
+Professional Experience
+Backend Developer Intern | Zenith Soft, Indore | December 2023 – February 2024
+- Developed internal services in Tableau.
+- Worked with a team of 5 engineers.
+- Wrote unit tests and documentation.
+
+Academic Projects
+Price Predictor | Linux, Power Apps
+- Estimates used-car prices from listings.
+
+Academic Background
+B.Sc. in Data Science, Himalaya School of Computing (2021 - 2024), CGPA 7.5

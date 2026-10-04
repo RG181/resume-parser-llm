@@ -1,0 +1,29 @@
+{
+  "name": "Yash Rao",
+  "email": "yash.rao50@example.com",
+  "phone": "9304666325",
+  "skills": [
+    "Django",
+    "Docker",
+    "PostgreSQL",
+    "Pandas",
+    "Hadoop",
+    "TensorFlow"
+  ],
+  "education": [
+    {
+      "degree": "BCA",
+      "institute": "Vindhya Institute of Technology",
+      "year": "2024"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Zenith Soft",
+      "role": "Backend Developer Intern"
+    }
+  ],
+  "total_experience_months": 5,
+  "layout": "pdf_two_col",
+  "source": "synthetic"
+}

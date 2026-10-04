@@ -1,0 +1,46 @@
+{
+  "name": "Yash Iyer",
+  "email": "yash.iyer89@example.com",
+  "phone": "9426515425",
+  "skills": [
+    "spaCy",
+    "SQL",
+    "Docker",
+    "AWS",
+    "PyTorch",
+    "Power Apps",
+    "Git",
+    "Java",
+    "TensorFlow",
+    "GraphQL"
+  ],
+  "education": [
+    {
+      "degree": "MCA",
+      "institute": "Himalaya School of Computing",
+      "year": "2025"
+    },
+    {
+      "degree": "Senior Secondary (Class XII)",
+      "institute": "Greenfield Senior School",
+      "year": "2022"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Nimbus Analytics",
+      "role": "QA Engineer Intern"
+    },
+    {
+      "company": "Helix Digital",
+      "role": "Junior Analyst"
+    },
+    {
+      "company": "Orbit Labs",
+      "role": "Data Analyst Intern"
+    }
+  ],
+  "total_experience_months": 15,
+  "layout": "pdf_single",
+  "source": "synthetic"
+}

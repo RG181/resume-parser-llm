@@ -1,0 +1,44 @@
+{
+  "name": "Nikhil Bhatt",
+  "email": "nikhil.bhatt36@example.com",
+  "phone": "9255357534",
+  "skills": [
+    "JavaScript",
+    "React",
+    "Kubernetes",
+    "Terraform",
+    "Figma",
+    "Python",
+    "Flask",
+    "Power BI",
+    "Django",
+    "C++",
+    "NumPy",
+    "Excel"
+  ],
+  "education": [
+    {
+      "degree": "B.Tech in Information Technology",
+      "institute": "Konkan University",
+      "year": "2026"
+    },
+    {
+      "degree": "Senior Secondary (Class XII)",
+      "institute": "Sunrise Public School",
+      "year": "2021"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Mosaic Data",
+      "role": "Web Developer"
+    },
+    {
+      "company": "Pragati Tech",
+      "role": "Web Developer"
+    }
+  ],
+  "total_experience_months": 9,
+  "layout": "pdf_single",
+  "source": "synthetic"
+}

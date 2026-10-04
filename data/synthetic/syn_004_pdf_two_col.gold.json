@@ -1,0 +1,42 @@
+{
+  "name": "Kabir Saxena",
+  "email": "kabir.saxena53@example.com",
+  "phone": "9621453189",
+  "skills": [
+    "MongoDB",
+    "Hadoop",
+    "React",
+    "Snowflake",
+    "SQL",
+    "Django",
+    "Python",
+    "Power Apps",
+    "dbt",
+    "scikit-learn"
+  ],
+  "education": [
+    {
+      "degree": "B.Tech in Information Technology",
+      "institute": "Deccan University",
+      "year": "2026"
+    },
+    {
+      "degree": "Senior Secondary (Class XII)",
+      "institute": "Sunrise Public School",
+      "year": "2021"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Mosaic Data",
+      "role": "Data Analyst Intern"
+    },
+    {
+      "company": "Pragati Tech",
+      "role": "Software Engineer Intern"
+    }
+  ],
+  "total_experience_months": 11,
+  "layout": "pdf_two_col",
+  "source": "synthetic"
+}

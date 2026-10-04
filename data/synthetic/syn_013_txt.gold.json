@@ -1,0 +1,42 @@
+{
+  "name": "Nikhil Shekhawat",
+  "email": "nikhil.shekhawat80@example.com",
+  "phone": "9173466219",
+  "skills": [
+    "Tableau",
+    "Power BI",
+    "React",
+    "MongoDB",
+    "PyTorch",
+    "TensorFlow",
+    "Java",
+    "C++",
+    "FastAPI",
+    "Kubernetes",
+    "Flask"
+  ],
+  "education": [
+    {
+      "degree": "M.Sc. in Mathematics",
+      "institute": "Kaveri University",
+      "year": "2025"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Mosaic Data",
+      "role": "Junior Analyst"
+    },
+    {
+      "company": "Finlytics",
+      "role": "Research Intern"
+    },
+    {
+      "company": "BlueLeaf Systems",
+      "role": "Junior Analyst"
+    }
+  ],
+  "total_experience_months": 20,
+  "layout": "txt",
+  "source": "synthetic"
+}

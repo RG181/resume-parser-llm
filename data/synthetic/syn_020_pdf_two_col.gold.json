@@ -1,0 +1,42 @@
+{
+  "name": "Rahul Chauhan",
+  "email": "rahul.chauhan29@example.com",
+  "phone": "9130266145",
+  "skills": [
+    "Excel",
+    "Pandas",
+    "JavaScript",
+    "Tableau",
+    "Kubernetes",
+    "Hadoop"
+  ],
+  "education": [
+    {
+      "degree": "MCA",
+      "institute": "Deccan University",
+      "year": "2025"
+    },
+    {
+      "degree": "Senior Secondary (Class XII)",
+      "institute": "Sunrise Public School",
+      "year": "2022"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Pragati Tech",
+      "role": "Research Intern"
+    },
+    {
+      "company": "Nimbus Analytics",
+      "role": "Project Trainee"
+    },
+    {
+      "company": "Kiran Labs",
+      "role": "Research Intern"
+    }
+  ],
+  "total_experience_months": 14,
+  "layout": "pdf_two_col",
+  "source": "synthetic"
+}

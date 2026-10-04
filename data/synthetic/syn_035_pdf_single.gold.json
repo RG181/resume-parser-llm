@@ -1,0 +1,35 @@
+{
+  "name": "Yash Shekhawat",
+  "email": "yash.shekhawat74@example.com",
+  "phone": "9222628457",
+  "skills": [
+    "NumPy",
+    "TensorFlow",
+    "C++",
+    "PostgreSQL",
+    "Node.js",
+    "Figma",
+    "PyTorch",
+    "Hadoop",
+    "dbt",
+    "SQL",
+    "Git",
+    "Flask"
+  ],
+  "education": [
+    {
+      "degree": "B.Sc. in Data Science",
+      "institute": "Kaveri University",
+      "year": "2026"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Zenith Soft",
+      "role": "Data Analyst Intern"
+    }
+  ],
+  "total_experience_months": 7,
+  "layout": "pdf_single",
+  "source": "synthetic"
+}

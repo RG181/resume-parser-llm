@@ -1,0 +1,29 @@
+Diya Rathore
+Hyderabad, Telangana | diya.rathore6@example.com | +91-9949447049
+linkedin.com/in/diya-rathore
+github.com/diyarathore
+
+Educational Qualifications
+M.Sc. in Mathematics, Himalaya School of Computing (2024 - 2026), CGPA 7.3
+
+Professional Experience
+Research Intern | Finlytics, Indore | Sep '22 to Oct '22
+- Worked with a team of 5 engineers.
+- Automated reporting pipelines with spaCy.
+- Wrote unit tests and documentation.
+QA Engineer Intern | Quanta Works, Chennai | Jan '23 to May '23
+- Automated reporting pipelines with Elasticsearch.
+Project Trainee | Orbit Labs, Bengaluru | Jun '23 to Dec '23
+- Cleaned and analysed datasets with Docker.
+- Built dashboards using Docker and Pandas.
+- Automated reporting pipelines with Docker.
+
+Technical Proficiency
+Languages: Docker, Pandas
+Frameworks: FastAPI, Git
+Tools: Elasticsearch, Figma
+Other: sklearn, spaCy
+
+Academic Projects
+Price Predictor | Figma, FastAPI
+- Estimates used-car prices from listings.

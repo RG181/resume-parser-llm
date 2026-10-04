@@ -1,0 +1,456 @@
+{
+  "Python": {
+    "category": "language",
+    "aliases": [
+      "python3"
+    ]
+  },
+  "Java": {
+    "category": "language"
+  },
+  "JavaScript": {
+    "category": "language",
+    "aliases": [
+      "JS",
+      "ecmascript",
+      "java script"
+    ]
+  },
+  "TypeScript": {
+    "category": "language"
+  },
+  "C": {
+    "category": "language",
+    "case_sensitive": true
+  },
+  "C++": {
+    "category": "language",
+    "aliases": [
+      "cpp"
+    ]
+  },
+  "C#": {
+    "category": "language",
+    "aliases": [
+      "csharp"
+    ]
+  },
+  "Go": {
+    "category": "language",
+    "aliases": [
+      "golang"
+    ],
+    "case_sensitive": true
+  },
+  "R": {
+    "category": "language",
+    "case_sensitive": true
+  },
+  "Rust": {
+    "category": "language",
+    "case_sensitive": true
+  },
+  "Kotlin": {
+    "category": "language"
+  },
+  "Swift": {
+    "category": "language",
+    "case_sensitive": true
+  },
+  "PHP": {
+    "category": "language"
+  },
+  "Scala": {
+    "category": "language"
+  },
+  "MATLAB": {
+    "category": "language"
+  },
+  "Bash": {
+    "category": "language",
+    "aliases": [
+      "shell scripting"
+    ]
+  },
+  "SQL": {
+    "category": "database"
+  },
+  "MySQL": {
+    "category": "database"
+  },
+  "PostgreSQL": {
+    "category": "database",
+    "aliases": [
+      "postgres"
+    ]
+  },
+  "MongoDB": {
+    "category": "database",
+    "aliases": [
+      "mongo"
+    ]
+  },
+  "SQLite": {
+    "category": "database"
+  },
+  "Redis": {
+    "category": "database"
+  },
+  "HTML": {
+    "category": "web",
+    "aliases": [
+      "html5"
+    ]
+  },
+  "CSS": {
+    "category": "web",
+    "aliases": [
+      "css3"
+    ]
+  },
+  "React": {
+    "category": "framework",
+    "aliases": [
+      "reactjs",
+      "react.js"
+    ]
+  },
+  "Node.js": {
+    "category": "framework",
+    "aliases": [
+      "nodejs"
+    ]
+  },
+  "Flask": {
+    "category": "framework"
+  },
+  "Django": {
+    "category": "framework"
+  },
+  "FastAPI": {
+    "category": "framework"
+  },
+  "Spring Boot": {
+    "category": "framework",
+    "aliases": [
+      "springboot"
+    ]
+  },
+  "Streamlit": {
+    "category": "framework"
+  },
+  "Pandas": {
+    "category": "ml_data"
+  },
+  "NumPy": {
+    "category": "ml_data"
+  },
+  "Matplotlib": {
+    "category": "ml_data"
+  },
+  "Seaborn": {
+    "category": "ml_data"
+  },
+  "scikit-learn": {
+    "category": "ml_data",
+    "aliases": [
+      "sklearn",
+      "scikit learn"
+    ]
+  },
+  "TensorFlow": {
+    "category": "ml_data"
+  },
+  "PyTorch": {
+    "category": "ml_data",
+    "aliases": [
+      "torch"
+    ]
+  },
+  "Keras": {
+    "category": "ml_data"
+  },
+  "spaCy": {
+    "category": "ml_data"
+  },
+  "NLTK": {
+    "category": "ml_data"
+  },
+  "Hugging Face": {
+    "category": "ml_data",
+    "aliases": [
+      "huggingface",
+      "hugging face transformers",
+      "transformers",
+      "huggingface transformers"
+    ]
+  },
+  "BERT": {
+    "category": "ml_data"
+  },
+  "OpenCV": {
+    "category": "ml_data"
+  },
+  "XGBoost": {
+    "category": "ml_data"
+  },
+  "LangChain": {
+    "category": "ml_data"
+  },
+  "Machine Learning": {
+    "category": "concept",
+    "aliases": [
+      "ML"
+    ]
+  },
+  "Deep Learning": {
+    "category": "concept"
+  },
+  "NLP": {
+    "category": "concept",
+    "aliases": [
+      "natural language processing",
+      "nlp pipelines",
+      "nlp pipeline"
+    ]
+  },
+  "Computer Vision": {
+    "category": "concept"
+  },
+  "LLM": {
+    "category": "concept",
+    "aliases": [
+      "LLMs",
+      "large language models"
+    ]
+  },
+  "Prompt Engineering": {
+    "category": "concept"
+  },
+  "Data Analysis": {
+    "category": "concept"
+  },
+  "Statistics": {
+    "category": "concept"
+  },
+  "ETL": {
+    "category": "concept"
+  },
+  "REST APIs": {
+    "category": "concept",
+    "aliases": [
+      "rest api",
+      "restful apis",
+      "restful api"
+    ]
+  },
+  "Git": {
+    "category": "tool"
+  },
+  "GitHub": {
+    "category": "tool"
+  },
+  "Docker": {
+    "category": "tool"
+  },
+  "Kubernetes": {
+    "category": "tool",
+    "aliases": [
+      "k8s"
+    ]
+  },
+  "Jenkins": {
+    "category": "tool"
+  },
+  "CI/CD": {
+    "category": "tool",
+    "aliases": [
+      "cicd"
+    ]
+  },
+  "Linux": {
+    "category": "tool"
+  },
+  "Jira": {
+    "category": "tool"
+  },
+  "Postman": {
+    "category": "tool"
+  },
+  "Tableau": {
+    "category": "tool"
+  },
+  "Power BI": {
+    "category": "tool",
+    "aliases": [
+      "powerbi"
+    ]
+  },
+  "Excel": {
+    "category": "tool",
+    "aliases": [
+      "Microsoft Excel",
+      "MS Excel"
+    ],
+    "case_sensitive": true
+  },
+  "Airflow": {
+    "category": "tool",
+    "aliases": [
+      "Apache Airflow"
+    ]
+  },
+  "Spark": {
+    "category": "tool",
+    "aliases": [
+      "Apache Spark",
+      "PySpark"
+    ],
+    "case_sensitive": true
+  },
+  "Hadoop": {
+    "category": "tool"
+  },
+  "Kafka": {
+    "category": "tool",
+    "aliases": [
+      "Apache Kafka"
+    ]
+  },
+  "AWS": {
+    "category": "cloud",
+    "aliases": [
+      "amazon web services"
+    ]
+  },
+  "Azure": {
+    "category": "cloud",
+    "aliases": [
+      "microsoft azure"
+    ]
+  },
+  "GCP": {
+    "category": "cloud",
+    "aliases": [
+      "google cloud",
+      "google cloud platform"
+    ]
+  },
+  "Agile": {
+    "category": "methodology"
+  },
+  "Scrum": {
+    "category": "methodology"
+  },
+  "Leadership": {
+    "category": "soft"
+  },
+  "Communication": {
+    "category": "soft"
+  },
+  "Teamwork": {
+    "category": "soft"
+  },
+  "Problem Solving": {
+    "category": "soft",
+    "aliases": [
+      "problem-solving"
+    ]
+  },
+  "React Native": {
+    "category": "framework",
+    "aliases": [
+      "react-native",
+      "reactnative"
+    ]
+  },
+  "Expo": {
+    "category": "framework",
+    "aliases": [
+      "expo go",
+      "expo notifications"
+    ]
+  },
+  "Firebase": {
+    "category": "cloud",
+    "aliases": [
+      "firebase auth",
+      "firebase storage",
+      "firebase cloud functions",
+      "firebase realtime db"
+    ]
+  },
+  "Firestore": {
+    "category": "database",
+    "aliases": [
+      "cloud firestore"
+    ]
+  },
+  "Three.js": {
+    "category": "web",
+    "aliases": [
+      "threejs",
+      "three js"
+    ]
+  },
+  "Azure OpenAI": {
+    "category": "cloud",
+    "aliases": [
+      "azure openai service"
+    ]
+  },
+  "Web Speech API": {
+    "category": "web"
+  },
+  "Jupyter Notebook": {
+    "category": "tool",
+    "aliases": [
+      "jupyter",
+      "jupyter notebooks"
+    ]
+  },
+  "Random Forest": {
+    "category": "concept"
+  },
+  "SVM": {
+    "category": "concept",
+    "aliases": [
+      "support vector machine",
+      "support vector machines"
+    ],
+    "case_sensitive": true
+  },
+  "Zero-Shot Classification": {
+    "category": "concept",
+    "aliases": [
+      "zero shot classification",
+      "zero-shot learning"
+    ]
+  },
+  "VS Code": {
+    "category": "tool",
+    "aliases": [
+      "vscode",
+      "visual studio code"
+    ]
+  },
+  "Public Speaking": {
+    "category": "soft",
+    "aliases": [
+      "presentation skills"
+    ]
+  },
+  "Technical Writing": {
+    "category": "soft",
+    "aliases": [
+      "documentation writing"
+    ]
+  },
+  "Cross-functional Collaboration": {
+    "category": "soft",
+    "aliases": [
+      "cross functional collaboration",
+      "cross-functional teamwork"
+    ]
+  }
+}

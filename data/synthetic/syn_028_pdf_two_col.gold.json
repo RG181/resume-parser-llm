@@ -1,0 +1,42 @@
+{
+  "name": "Nisha Banerjee",
+  "email": "nisha.banerjee93@example.com",
+  "phone": "9123375849",
+  "skills": [
+    "Python",
+    "Linux",
+    "MongoDB",
+    "Hadoop",
+    "Selenium",
+    "TensorFlow",
+    "Node.js",
+    "Prometheus",
+    "Java",
+    "SQL"
+  ],
+  "education": [
+    {
+      "degree": "M.Tech in Software Engineering",
+      "institute": "Deccan University",
+      "year": "2024"
+    },
+    {
+      "degree": "Senior Secondary (Class XII)",
+      "institute": "Greenfield Senior School",
+      "year": "2021"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Pragati Tech",
+      "role": "Data Analyst Intern"
+    },
+    {
+      "company": "BlueLeaf Systems",
+      "role": "Data Science Intern"
+    }
+  ],
+  "total_experience_months": 9,
+  "layout": "pdf_two_col",
+  "source": "synthetic"
+}

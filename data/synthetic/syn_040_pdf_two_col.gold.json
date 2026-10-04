@@ -1,0 +1,44 @@
+{
+  "name": "Nikhil Pillai",
+  "email": "nikhil.pillai35@example.com",
+  "phone": "9350838144",
+  "skills": [
+    "Hadoop",
+    "PostgreSQL",
+    "Excel",
+    "dbt",
+    "JavaScript",
+    "Kubernetes",
+    "Linux",
+    "C++"
+  ],
+  "education": [
+    {
+      "degree": "B.Tech in Computer Science",
+      "institute": "Sahyadri Institute of Science",
+      "year": "2025"
+    },
+    {
+      "degree": "Senior Secondary (Class XII)",
+      "institute": "Greenfield Senior School",
+      "year": "2021"
+    }
+  ],
+  "experience": [
+    {
+      "company": "BlueLeaf Systems",
+      "role": "Software Engineer Intern"
+    },
+    {
+      "company": "Helix Digital",
+      "role": "QA Engineer Intern"
+    },
+    {
+      "company": "Kiran Labs",
+      "role": "Backend Developer Intern"
+    }
+  ],
+  "total_experience_months": 7,
+  "layout": "pdf_two_col",
+  "source": "synthetic"
+}

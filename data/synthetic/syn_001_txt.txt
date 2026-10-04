@@ -1,0 +1,40 @@
+Meera Kapoor
+Indore, Madhya Pradesh | meera.kapoor32@example.com | +91-9339670711
+linkedin.com/in/meera-kapoor
+github.com/meerakapoor
+
+Objective
+Motivated student looking for roles in software and data.
+
+Key Skills
+- Excel
+- SQL
+- TensorFlow
+- Java
+- Prometheus
+- C++
+- Node.js
+- Python
+- Power BI
+- Linux
+- Git
+- MongoDB
+
+Professional Experience
+Software Engineer Intern at Finlytics (Apr 2024 - Nov 2024)
+- Wrote unit tests and documentation.
+- Automated reporting pipelines with Prometheus.
+- Developed internal services in Prometheus.
+Software Engineer Intern at Orbit Labs (Jan 2025 - Apr 2025)
+- Cleaned and analysed datasets with Power BI.
+
+Academic Projects
+Attendance Portal | Power BI, Java
+- Marks and reports class attendance.
+Price Predictor | Git, C++
+- Estimates used-car prices from listings.
+
+EDUCATION
+M.Sc. in Mathematics
+Deccan University | 2023 - 2025
+CGPA: 6.7/10

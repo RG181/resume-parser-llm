@@ -1,0 +1,36 @@
+{
+  "name": "Meera Khanna",
+  "email": "meera.khanna23@example.com",
+  "phone": "9963406382",
+  "skills": [
+    "Flask",
+    "Git",
+    "JavaScript",
+    "Prometheus",
+    "C++",
+    "MongoDB",
+    "dbt",
+    "PyTorch"
+  ],
+  "education": [
+    {
+      "degree": "M.Sc. in Mathematics",
+      "institute": "Deccan University",
+      "year": "2026"
+    },
+    {
+      "degree": "Senior Secondary (Class XII)",
+      "institute": "Lotus Valley School",
+      "year": "2023"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Zenith Soft",
+      "role": "Software Engineer Intern"
+    }
+  ],
+  "total_experience_months": 7,
+  "layout": "pdf_single",
+  "source": "synthetic"
+}

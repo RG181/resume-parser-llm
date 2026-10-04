@@ -1,0 +1,12 @@
+{
+  "name": "Arjun Mehta",
+  "email": "arjun.mehta@example.org",
+  "phone": "09123456780",
+  "skills": ["Python", "R", "SQL", "Tableau", "Excel", "TensorFlow", "Docker", "Airflow", "ETL"],
+  "education": [
+    {"degree": "M.Sc. in Statistics", "institute": "University of Rajputana", "year": "2023"},
+    {"degree": "B.Sc. Mathematics", "institute": "Maharani College", "year": "2021"}
+  ],
+  "experience": [{"company": "Finlytics Pvt Ltd", "role": "Junior Data Analyst"}],
+  "total_experience_months": 17
+}

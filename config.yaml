@@ -1,0 +1,47 @@
+# ---------------------------------------------------------------
+# Central configuration for the Resume Parser.
+# API keys are NEVER stored here: set GEMINI_API_KEY in .env
+# ---------------------------------------------------------------
+llm:
+  provider: gemini                   # gemini | anthropic  (the code supports both; switch here)
+  model: gemini-3.5-flash            # run `python main.py models` to see what YOUR key can use (e.g. gemini-2.5-flash)
+  api_key_env: GEMINI_API_KEY
+  max_tokens: 8192                   # Gemini "thinking" tokens count against this, so keep it generous
+  temperature: 0.0                   # deterministic extraction
+  json_mode: true                    # Gemini: force application/json output
+  thinking_level: low                # gemini-3.x only (low | medium | high). Extraction needs little reasoning; 'high' can eat the whole token budget
+  thinking_budget: 0                 # gemini-2.5 only (used by the fallback model): 0 disables thinking
+  timeout_seconds: 60
+  max_retries: 4                     # attempts PER MODEL, exponential backoff on 429 / 5xx / network errors
+  retry_base_delay: 3.0
+  fallback_models: [gemini-2.5-flash]   # tried if the main model is out of daily quota (429), overloaded (503) or not found. Quota is PER MODEL on the free tier. Check `python main.py models`; [] to disable
+  requests_per_minute: 10            # throttle for free-tier limits; set null if you have a paid/billing-enabled key
+  cache_enabled: true                # identical prompt => reuse response (saves quota, makes evals reproducible)
+  cache_dir: .cache
+  # --- to use Claude instead: provider: anthropic, model: claude-haiku-4-5-20251001, api_key_env: ANTHROPIC_API_KEY
+
+prompts:
+  file: prompts/prompts.yaml
+
+pipeline:
+  mode: hybrid                       # rules | llm | hybrid
+  use_segmentation: true             # set false for the RQ1 ablation
+  max_resume_chars: 15000            # guard against huge inputs / token cost
+  skills_file: data/skills.json
+
+privacy:
+  redact_contact_before_llm: true    # email/phone/URLs are extracted locally by regex and never sent to the API (hybrid mode)
+  anonymize_output: false            # default for the UI/CLI; can be toggled per run
+  mask_institute: true
+  mask_graduation_year: true
+
+matching:
+  weights:                           # must be non-negative; they are re-normalised to sum to 1
+    skill_overlap: 0.40
+    text_similarity: 0.25
+    experience_fit: 0.20
+    education_fit: 0.15
+  explain_with_llm: true
+
+confidence:
+  review_threshold: 0.70             # fields below this are flagged for human review

@@ -1,0 +1,35 @@
+{
+  "name": "Anjali Gill",
+  "email": "anjali.gill12@example.com",
+  "phone": "9530391423",
+  "skills": [
+    "Python",
+    "spaCy",
+    "scikit-learn",
+    "Pandas",
+    "Flask",
+    "dbt",
+    "Django",
+    "JavaScript"
+  ],
+  "education": [
+    {
+      "degree": "B.Sc. in Data Science",
+      "institute": "Deccan University",
+      "year": "2026"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Helix Digital",
+      "role": "Project Trainee"
+    },
+    {
+      "company": "Quanta Works",
+      "role": "Software Engineer Intern"
+    }
+  ],
+  "total_experience_months": 11,
+  "layout": "pdf_single",
+  "source": "synthetic"
+}

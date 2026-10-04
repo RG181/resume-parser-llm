@@ -1,0 +1,36 @@
+{
+  "name": "Ishita Pillai",
+  "email": "ishita.pillai54@example.com",
+  "phone": "9873403266",
+  "skills": [
+    "SQL",
+    "C++",
+    "NumPy",
+    "Docker",
+    "Java",
+    "Linux",
+    "Hadoop",
+    "React",
+    "Prometheus"
+  ],
+  "education": [
+    {
+      "degree": "BCA",
+      "institute": "Konkan University",
+      "year": "2025"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Kiran Labs",
+      "role": "QA Engineer Intern"
+    },
+    {
+      "company": "Pragati Tech",
+      "role": "Junior Analyst"
+    }
+  ],
+  "total_experience_months": 10,
+  "layout": "pdf_single",
+  "source": "synthetic"
+}

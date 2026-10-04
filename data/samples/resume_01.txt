@@ -1,0 +1,34 @@
+RIYA SHARMA
+Jaipur, Rajasthan | riya.sharma@example.com | +91-98765 43210
+linkedin.com/in/riya-sharma | github.com/riyasharma
+
+SUMMARY
+Final-year Computer Science student interested in NLP and data engineering.
+
+EDUCATION
+B.Tech in Computer Science and Engineering
+Jaipur Institute of Engineering and Technology | 2022 - 2026
+CGPA: 8.7/10
+
+Senior Secondary (Class XII), Delhi Public School, Jaipur | 2021
+Percentage: 92%
+
+EXPERIENCE
+Data Science Intern | Nimbus Analytics, Jaipur | Jun 2024 - Aug 2024
+- Built a churn prediction model using Python and scikit-learn.
+- Automated weekly reporting with SQL and Power BI.
+
+Machine Learning Intern - Orbit Labs | Jan 2025 – Mar 2025
+- Fine-tuned a DistilBERT classifier for support-ticket routing.
+
+SKILLS
+Languages: Python, SQL, Java, C++
+ML/NLP: scikit-learn, spaCy, Hugging Face Transformers, Pandas, NumPy
+Tools: Git, Docker, Streamlit, Power BI
+
+PROJECTS
+Resume Parser | Python, spaCy, Streamlit
+- Extracts candidate details from PDF resumes using NLP.
+
+CERTIFICATIONS
+- Google Data Analytics Professional Certificate, Coursera

@@ -1,0 +1,35 @@
+{
+  "name": "Arnav Nair",
+  "email": "arnav.nair65@example.com",
+  "phone": "9179661615",
+  "skills": [
+    "Tableau",
+    "Power BI",
+    "dbt",
+    "FastAPI",
+    "NumPy",
+    "Java",
+    "Prometheus",
+    "PyTorch",
+    "Kubernetes",
+    "Docker",
+    "SQL",
+    "Figma"
+  ],
+  "education": [
+    {
+      "degree": "M.Tech in Software Engineering",
+      "institute": "Kaveri University",
+      "year": "2025"
+    }
+  ],
+  "experience": [
+    {
+      "company": "BlueLeaf Systems",
+      "role": "Backend Developer Intern"
+    }
+  ],
+  "total_experience_months": 4,
+  "layout": "docx",
+  "source": "synthetic"
+}

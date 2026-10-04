@@ -1,0 +1,43 @@
+{
+  "name": "Nisha Rao",
+  "email": "nisha.rao14@example.com",
+  "phone": "9128198506",
+  "skills": [
+    "Pandas",
+    "Selenium",
+    "Git",
+    "scikit-learn",
+    "FastAPI",
+    "PostgreSQL",
+    "Snowflake",
+    "Python",
+    "Elasticsearch",
+    "Java",
+    "AWS"
+  ],
+  "education": [
+    {
+      "degree": "BCA",
+      "institute": "Konkan University",
+      "year": "2026"
+    },
+    {
+      "degree": "Senior Secondary (Class XII)",
+      "institute": "Sunrise Public School",
+      "year": "2022"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Quanta Works",
+      "role": "Backend Developer Intern"
+    },
+    {
+      "company": "Helix Digital",
+      "role": "Research Intern"
+    }
+  ],
+  "total_experience_months": 7,
+  "layout": "pdf_two_col",
+  "source": "synthetic"
+}

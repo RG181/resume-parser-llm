@@ -1,0 +1,39 @@
+{
+  "name": "Arnav Chauhan",
+  "email": "arnav.chauhan11@example.com",
+  "phone": "9649009234",
+  "skills": [
+    "scikit-learn",
+    "Excel",
+    "Pandas",
+    "Power BI",
+    "Tableau",
+    "Linux",
+    "Git"
+  ],
+  "education": [
+    {
+      "degree": "B.Tech in Computer Science",
+      "institute": "Narmada College of Engineering",
+      "year": "2026"
+    },
+    {
+      "degree": "Senior Secondary (Class XII)",
+      "institute": "Lotus Valley School",
+      "year": "2022"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Orbit Labs",
+      "role": "Research Intern"
+    },
+    {
+      "company": "Nimbus Analytics",
+      "role": "Backend Developer Intern"
+    }
+  ],
+  "total_experience_months": 10,
+  "layout": "docx",
+  "source": "synthetic"
+}

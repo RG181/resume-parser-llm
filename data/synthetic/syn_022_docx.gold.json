@@ -1,0 +1,34 @@
+{
+  "name": "Dev Tiwari",
+  "email": "dev.tiwari41@example.com",
+  "phone": "9797460535",
+  "skills": [
+    "MongoDB",
+    "Docker",
+    "spaCy",
+    "React",
+    "scikit-learn",
+    "Python",
+    "C++"
+  ],
+  "education": [
+    {
+      "degree": "M.Tech in Software Engineering",
+      "institute": "Himalaya School of Computing",
+      "year": "2026"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Zenith Soft",
+      "role": "Software Engineer Intern"
+    },
+    {
+      "company": "Quanta Works",
+      "role": "Junior Analyst"
+    }
+  ],
+  "total_experience_months": 8,
+  "layout": "docx",
+  "source": "synthetic"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Meera Reddy",
+  "email": "meera.reddy30@example.com",
+  "phone": "9487493096",
+  "skills": [
+    "Excel",
+    "Git",
+    "SQL",
+    "Terraform",
+    "JavaScript",
+    "Power BI",
+    "dbt",
+    "PostgreSQL",
+    "Django",
+    "Python"
+  ],
+  "education": [
+    {
+      "degree": "B.E. in Electronics",
+      "institute": "Kaveri University",
+      "year": "2024"
+    },
+    {
+      "degree": "Senior Secondary (Class XII)",
+      "institute": "Orchid International School",
+      "year": "2019"
+    }
+  ],
+  "experience": [
+    {
+      "company": "BlueLeaf Systems",
+      "role": "Software Engineer Intern"
+    },
+    {
+      "company": "Finlytics",
+      "role": "Data Science Intern"
+    }
+  ],
+  "total_experience_months": 9,
+  "layout": "docx",
+  "source": "synthetic"
+}

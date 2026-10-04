@@ -1,0 +1,32 @@
+{
+  "name": "Kabir Desai",
+  "email": "kabir.desai56@example.com",
+  "phone": "9120123575",
+  "skills": [
+    "Snowflake",
+    "Pandas",
+    "TensorFlow",
+    "Tableau",
+    "scikit-learn",
+    "Kubernetes",
+    "Selenium",
+    "Linux",
+    "Power Apps"
+  ],
+  "education": [
+    {
+      "degree": "B.Sc. in Data Science",
+      "institute": "Himalaya School of Computing",
+      "year": "2024"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Zenith Soft",
+      "role": "Backend Developer Intern"
+    }
+  ],
+  "total_experience_months": 3,
+  "layout": "txt",
+  "source": "synthetic"
+}
