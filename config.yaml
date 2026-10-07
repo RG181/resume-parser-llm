@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 llm:
   provider: gemini                   # gemini | anthropic  (the code supports both; switch here)
-  model: gemini-3.5-flash            # run `python main.py models` to see what YOUR key can use (e.g. gemini-2.5-flash)
+  model: gemini-3.5-flash-lite          # run `python main.py models` to see what YOUR key can use (e.g. gemini-2.5-flash)
   api_key_env: GEMINI_API_KEY
   max_tokens: 8192                   # Gemini "thinking" tokens count against this, so keep it generous
   temperature: 0.0                   # deterministic extraction
@@ -14,7 +14,7 @@ llm:
   timeout_seconds: 60
   max_retries: 4                     # attempts PER MODEL, exponential backoff on 429 / 5xx / network errors
   retry_base_delay: 3.0
-  fallback_models: [gemini-2.5-flash]   # tried if the main model is out of daily quota (429), overloaded (503) or not found. Quota is PER MODEL on the free tier. Check `python main.py models`; [] to disable
+  fallback_models: [gemini-3.8-flash]   # tried if the main model is out of daily quota (429), overloaded (503) or not found. Quota is PER MODEL on the free tier. Check `python main.py models`; [] to disable
   requests_per_minute: 10            # throttle for free-tier limits; set null if you have a paid/billing-enabled key
   cache_enabled: true                # identical prompt => reuse response (saves quota, makes evals reproducible)
   cache_dir: .cache

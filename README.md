@@ -102,7 +102,7 @@ Full step-by-step instructions, interpretation templates and an error-analysis g
 
 | Method | Name | Skills F1 | Edu F1 | Exp F1 | Months MAE | Sec/resume | Tokens |
 |---|---|---|---|---|---|---|---|
-| rules | | | | | | | |
+| rules | 100% | 0.92 | 0.97 / 1.00 | 0.81 | 0.7 | 0.22 | 0 |
 | llm | | | | | | | |
 | hybrid | | | | | | | |
 | rules (no segmentation) | | | | | | | |
